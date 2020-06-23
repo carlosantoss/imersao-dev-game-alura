@@ -14,7 +14,8 @@ Foi trabalhado as animações básicas e trilha sonora;
 ![aula1_alura](https://user-images.githubusercontent.com/62728109/85400830-68872880-b52f-11ea-8da8-d49b3467f922.png)
 
 ## **2ª Aula**
-*Em construção*
+Trabalhamos o Pulo duplo do personagem, efeitos sonoros do pulo e a colisão do inimigo;
+
 
 ## **3ª Aula**
 *Em construção*
