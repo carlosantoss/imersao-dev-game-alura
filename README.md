@@ -1,5 +1,5 @@
 
-O **Imersão Dev Alura** foi uma semana onde desenvolvemos um game no formato endless runner.
+O **Imersão Game Dev Alura** foi uma semana onde desenvolvemos um game no formato endless runner.
 
 O game basea-se em uma bruxa hipstar que deve derrotar seus inimigos para concluir o seu objetivo de salvar seus amigos hipsters que estão presos.
 
