@@ -7,7 +7,7 @@ Bibliotecas e tecnologias utilizadas:
 - HTML;
 - CSS;
 - JavaScript;
-- P5 HS.
+- P5 JS.
 
 ## **1ª Aula**
 Foi trabalhado as animações básicas e trilha sonora;
