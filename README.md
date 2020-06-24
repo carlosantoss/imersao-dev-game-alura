@@ -15,11 +15,11 @@ Foi trabalhado as animações básicas e trilha sonora;
 
 ## **2ª Aula**
 Trabalhamos o Pulo duplo do personagem, efeitos sonoros do pulo e a colisão do inimigo;
-![aula2_alura](https://user-images.githubusercontent.com/62728109/85565998-01887300-b606-11ea-845b-3eb931065b67.png)
+![aula2_alura](https://user-images.githubusercontent.com/62728109/85567423-377a2700-b607-11ea-9914-b1b35cda9167.png)
 
 ## **3ª Aula**
 Foram desenvolvidos mais inimigos, realizado a criação de pontuação e a desenvolvida a tela de game over;
-![aula3_alura](https://user-images.githubusercontent.com/62728109/85566411-66dc6400-b606-11ea-8356-bd70a786a384.png)
+![aula3_alura](https://user-images.githubusercontent.com/62728109/85567476-43fe7f80-b607-11ea-856b-608253df9406.png)
 
 ## **4ª Aula**
 *Em construção*
