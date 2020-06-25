@@ -22,7 +22,8 @@ Foram desenvolvidos mais inimigos, criação da pontuação e alerta de game ove
 ![aula3_alura](https://user-images.githubusercontent.com/62728109/85567476-43fe7f80-b607-11ea-856b-608253df9406.png)
 
 ## **4ª Aula**
-*Em construção*
+Nesta aula, aprimoramos a frequência dos inimigos e desenvolvemos a tela inicial do jogo;
+![aula4_alura](https://user-images.githubusercontent.com/62728109/85734700-94dbaa00-b6d3-11ea-8f02-a23591c78f52.png)
 
 ## **5ª Aula**
 *Em construção*
