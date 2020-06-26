@@ -19,7 +19,7 @@ class Cenario {
       this.x1 = width;
     }
     if (this.x2 < -width) {
-      this.x1 = width;
+      this.x2 = width;
     }
   }
 }
