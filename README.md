@@ -19,7 +19,6 @@ Nesta aula, aprimoramos a frequência dos inimigos e desenvolvemos a tela inicia
 ![aula4_alura](https://user-images.githubusercontent.com/62728109/85734700-94dbaa00-b6d3-11ea-8f02-a23591c78f52.png)
 
 ## **5ª Aula**
-Na última aula da imersão game dev aprendendo a criar o sistema de vidas, para perder sempre uma ao colidir com o inimigo e também aprendemos a criar mapas.
 Na última aula da imersão game dev aprendemos a criar o sistema de vidas, para perder sempre uma ao colidir com o inimigo e também aprendemos a criar mapas.
 ![aula5_alura](https://user-images.githubusercontent.com/62728109/85862694-80151a00-b798-11ea-9335-321a9f8b0e47.png)
 
