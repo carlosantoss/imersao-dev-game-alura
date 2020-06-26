@@ -1,4 +1,5 @@
 O **Imersão Game Dev Alura** foi uma semana onde desenvolvemos um game no formato endless runner.
+
 O game basea-se em uma bruxa hipstar que deve derrotar seus inimigos gota, troll chorão e gota voadora.
 Bibliotecas e tecnologias utilizadas:
 - HTML;
